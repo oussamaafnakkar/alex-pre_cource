@@ -1,2 +1,1 @@
-d
-hello
+git is cool
